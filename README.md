@@ -3,7 +3,7 @@ An interactive website for users to search through different recipes with the ab
 
 Contributors:
 
-| Group Member Name          | GitHub Username    |
+| Member Name                | GitHub Username    |
 | :------------------------- |:------------------:|
 | Eric CB-Lamontagne         | caspeer1           |
 | Kenta Hattori              | callmekenta        |
