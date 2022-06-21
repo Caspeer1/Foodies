@@ -15,7 +15,7 @@ https://docs.google.com/presentation/u/1/d/1t6jAR7pdPNX9y9XLncatleKYhYhN3ylwhorY
 API: https://www.themealdb.com/api.php
 
 ## Instructions to Load:
-| type in ubuntu: at the majorgroupproject-2-0-gpa directory |
+| type in ubuntu: at the Foodies directory |
 | :---------------------------------------------------------:|
 | npm install express                                        |                
 | npm install socket.io                                      |
